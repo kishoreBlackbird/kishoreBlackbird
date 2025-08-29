@@ -4,7 +4,6 @@
 
 - 🔭 Currently working on **Traffic AI Vision Project**  
 - 🌱 Exploring **AI/ML, Docker, Cloud (GCP), and Full-Stack Development**  
-- 💼 Founder of **Venom Holidays (Travel Company)**  
 - 🎯 Passionate about blending **business + technology**  
 - 📫 Reach me: **kishorebalan1607@gmail.com**  
 
