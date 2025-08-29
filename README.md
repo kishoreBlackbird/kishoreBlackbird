@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hey 👋, I'm Kishore  
 
-<!--
-**kishoreBlackbird/kishoreBlackbird** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💡 **AI & Web Development Enthusiast | Entrepreneur | Life long Learner**  
 
-Here are some ideas to get you started:
+- 🔭 Currently working on **Traffic AI Vision Project**  
+- 🌱 Exploring **AI/ML, Docker, Cloud (GCP), and Full-Stack Development**  
+- 💼 Founder of **Venom Holidays (Travel Company)**  
+- 🎯 Passionate about blending **business + technology**  
+- 📫 Reach me: **kishorebalan1607@gmail.com**  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack
+- **Languages:** Python, JavaScript, PHP, SQL  
+- **Frameworks:** Flask, Laravel, Bootstrap  
+- **Tools:** Docker, GitHub, VS Code  
+- **Cloud:** Google Cloud Platform (GCP)  
+
+---
+
+### 📊 GitHub Stats
+![Kishore's GitHub stats](https://github-readme-stats.vercel.app/api?username=kishoreBlackbird&show_icons=true&theme=radical)
